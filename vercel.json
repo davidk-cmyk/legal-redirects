@@ -1,0 +1,79 @@
+{
+  "redirects": [
+    {
+      "source": "/admin-user-terms",
+      "destination": "https://portal.partners.idp.com/P2P-User-Terms",
+      "permanent": true
+    },
+    {
+      "source": "/mobile-application-terms",
+      "destination": "https://portal.partners.idp.com/P2P-User-Terms",
+      "permanent": true
+    },
+    {
+      "source": "/user-terms",
+      "destination": "https://portal.partners.idp.com/P2P-User-Terms",
+      "permanent": true
+    },
+    {
+      "source": "/customer-terms",
+      "destination": "https://portal.partners.idp.com/cmint/global-clients-terms-conditions.html",
+      "permanent": true
+    },
+    {
+      "source": "/ip-assignment",
+      "destination": "https://portal.partners.idp.com/P2P-IP-Assignment-Terms",
+      "permanent": true
+    },
+    {
+      "source": "/cookie-policy",
+      "destination": "https://www.theambassadorplatform.com/cookie-policy",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-notice",
+      "destination": "https://portal.partners.idp.com/P2P-Privacy-Notice",
+      "permanent": true
+    },
+    {
+      "source": "/general-privacy-policy",
+      "destination": "https://www.theambassadorplatform.com/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/accessibility-statement",
+      "destination": "https://www.theambassadorplatform.com/accessibility-statement",
+      "permanent": true
+    },
+    {
+      "source": "/safeguarding-policy",
+      "destination": "https://portal.partners.idp.com/Safeguarding-Policy",
+      "permanent": true
+    },
+    {
+      "source": "/acceptable-usage-policy",
+      "destination": "https://portal.partners.idp.com/Acceptable-Usage-Policy",
+      "permanent": true
+    },
+    {
+      "source": "/osa",
+      "destination": "https://portal.partners.idp.com/Safeguarding-Policy",
+      "permanent": true
+    },
+    {
+      "source": "/service-level-agreement",
+      "destination": "https://portal.partners.idp.com/P2P-SLA",
+      "permanent": true
+    },
+    {
+      "source": "/modern-slavery-policy",
+      "destination": "https://investors.idp.com/FormBuilder/_Resource/_module/v1AiEHYL20-_Rje11PzkYA/file/IDP_Modern_Slavery_Statement_2025.pdf",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://www.theambassadorplatform.com",
+      "permanent": false
+    }
+  ]
+}
