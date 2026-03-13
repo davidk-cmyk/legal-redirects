@@ -2,17 +2,17 @@
   "redirects": [
     {
       "source": "/admin-user-terms",
-      "destination": "https://portal.partners.idp.com/P2P-User-Terms",
+      "destination": "https://partners.idp.com/p2p-user-terms",
       "permanent": true
     },
     {
       "source": "/mobile-application-terms",
-      "destination": "https://portal.partners.idp.com/P2P-User-Terms",
+      "destination": "https://partners.idp.com/p2p-user-terms",
       "permanent": true
     },
     {
       "source": "/user-terms",
-      "destination": "https://portal.partners.idp.com/P2P-User-Terms",
+      "destination": "https://partners.idp.com/p2p-user-terms",
       "permanent": true
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "source": "/ip-assignment",
-      "destination": "https://portal.partners.idp.com/P2P-IP-Assignment-Terms",
+      "destination": "https://partners.idp.com/p2p-ip-assignment-terms",
       "permanent": true
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "source": "/privacy-notice",
-      "destination": "https://portal.partners.idp.com/P2P-Privacy-Notice",
+      "destination": "https://partners.idp.com/p2p-privacy-notice",
       "permanent": true
     },
     {
@@ -47,22 +47,22 @@
     },
     {
       "source": "/safeguarding-policy",
-      "destination": "https://portal.partners.idp.com/Safeguarding-Policy",
+      "destination": "https://partners.idp.com/p2p-safeguarding-policy",
       "permanent": true
     },
     {
       "source": "/acceptable-usage-policy",
-      "destination": "https://portal.partners.idp.com/Acceptable-Usage-Policy",
+      "destination": "https://partners.idp.com/acceptable-usage-policy",
       "permanent": true
     },
     {
       "source": "/osa",
-      "destination": "https://portal.partners.idp.com/Safeguarding-Policy",
+      "destination": "https://partners.idp.com/p2p-safeguarding-policy",
       "permanent": true
     },
     {
       "source": "/service-level-agreement",
-      "destination": "https://portal.partners.idp.com/P2P-SLA",
+      "destination": "https://partners.idp.com/p2p-sla",
       "permanent": true
     },
     {
