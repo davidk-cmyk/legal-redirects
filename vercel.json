@@ -2,72 +2,87 @@
   "redirects": [
     {
       "source": "/admin-user-terms",
-      "destination": "https://partners.idp.com/p2p-user-terms",
+      "destination": "https://partners.idp.com/tap-terms/admin-user-terms",
       "permanent": true
     },
     {
       "source": "/mobile-application-terms",
-      "destination": "https://partners.idp.com/p2p-user-terms",
+      "destination": "https://partners.idp.com/tap-terms/mobile-application-terms",
       "permanent": true
     },
     {
       "source": "/user-terms",
-      "destination": "https://partners.idp.com/p2p-user-terms",
+      "destination": "https://partners.idp.com/tap-terms/p2p-user-terms",
       "permanent": true
     },
     {
       "source": "/customer-terms",
-      "destination": "https://portal.partners.idp.com/cmint/global-clients-terms-conditions.html",
+      "destination": "https://partners.idp.com/tap-terms/customer-terms",
       "permanent": true
     },
     {
       "source": "/ip-assignment",
-      "destination": "https://partners.idp.com/p2p-ip-assignment-terms",
+      "destination": "https://partners.idp.com/tap-terms/p2p-ip-assignment-terms",
       "permanent": true
     },
     {
       "source": "/cookie-policy",
-      "destination": "https://www.theambassadorplatform.com/cookie-policy",
+      "destination": "https://partners.idp.com/tap-terms/cookie-policy",
       "permanent": true
     },
     {
       "source": "/privacy-notice",
-      "destination": "https://partners.idp.com/p2p-privacy-notice",
+      "destination": "https://partners.idp.com/tap-terms/p2p-privacy-notice",
       "permanent": true
     },
     {
       "source": "/general-privacy-policy",
-      "destination": "https://www.theambassadorplatform.com/privacy-policy",
+      "destination": "https://partners.idp.com/tap-terms/general-privacy-policy",
       "permanent": true
     },
     {
       "source": "/accessibility-statement",
-      "destination": "https://www.theambassadorplatform.com/accessibility-statement",
+      "destination": "https://partners.idp.com/tap-terms/accessibility-statement",
       "permanent": true
     },
     {
       "source": "/safeguarding-policy",
-      "destination": "https://partners.idp.com/p2p-safeguarding-policy",
+      "destination": "https://partners.idp.com/tap-terms/p2p-safeguarding-policy",
       "permanent": true
     },
     {
       "source": "/acceptable-usage-policy",
-      "destination": "https://partners.idp.com/acceptable-usage-policy",
+      "destination": "https://partners.idp.com/tap-terms/acceptable-usage-policy",
       "permanent": true
     },
     {
       "source": "/osa",
-      "destination": "https://partners.idp.com/p2p-safeguarding-policy",
+      "destination": "https://partners.idp.com/tap-terms/online-safety-act",
+      "permanent": true
+    },
+    {
+      "source": "/online-safety-act",
+      "destination": "https://partners.idp.com/tap-terms/online-safety-act",
       "permanent": true
     },
     {
       "source": "/service-level-agreement",
-      "destination": "https://partners.idp.com/p2p-sla",
+      "destination": "https://partners.idp.com/tap-terms/p2p-sla",
       "permanent": true
     },
     {
       "source": "/modern-slavery-policy",
-      "destination": "https://investors.idp.com/FormBuilder/_Resource/_module/v1AiEHYL20-_Rje11PzkYA/file/IDP_Modern_Slavery_Statement_2025.pdf",
+      "destination": "https://partners.idp.com/tap-terms/modern-slavery-policy",
+      "permanent": true
+    },
+    {
+      "source": "/customer-service-support",
+      "destination": "https://partners.idp.com/tap-terms/customer-service-support",
+      "permanent": true
+    },
+    {
+      "source": "/service-specification-and-plans",
+      "destination": "https://partners.idp.com/tap-terms/service-specification-and-plans",
       "permanent": true
     },
     {
