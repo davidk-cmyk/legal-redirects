@@ -50,19 +50,23 @@ Should return 301 redirect to IDP portal.
 
 ## All Redirect URLs
 
-- /admin-user-terms → P2P-User-Terms
-- /mobile-application-terms → P2P-User-Terms
-- /user-terms → P2P-User-Terms
-- /customer-terms → global-clients-terms-conditions
-- /ip-assignment → P2P-IP-Assignment-Terms
-- /cookie-policy → theambassadorplatform.com/cookie-policy
-- /privacy-notice → P2P-Privacy-Notice
-- /general-privacy-policy → theambassadorplatform.com/privacy-policy
-- /accessibility-statement → theambassadorplatform.com/accessibility-statement
-- /safeguarding-policy → Safeguarding-Policy
-- /acceptable-usage-policy → Acceptable-Usage-Policy
-- /osa → Safeguarding-Policy
-- /service-level-agreement → P2P-SLA
-- /modern-slavery-policy → IDP_Modern_Slavery_Statement_2025.pdf
+All named paths are 301 permanent redirects to TAP legal pages on `partners.idp.com`.
+
+- /user-terms → /tap-terms/p2p-user-terms
+- /ip-assignment → /tap-terms/p2p-ip-assignment-terms
+- /privacy-notice → /tap-terms/p2p-privacy-notice
+- /safeguarding-policy → /tap-terms/p2p-safeguarding-policy
+- /service-level-agreement → /tap-terms/p2p-sla
+- /acceptable-usage-policy → /tap-terms/acceptable-usage-policy
+- /accessibility-statement → /tap-terms/accessibility-statement
+- /admin-user-terms → /tap-terms/admin-user-terms
+- /cookie-policy → /tap-terms/cookie-policy
+- /customer-service-support → /tap-terms/customer-service-support
+- /customer-terms → /tap-terms/customer-terms
+- /general-privacy-policy → /tap-terms/general-privacy-policy
+- /mobile-application-terms → /tap-terms/mobile-application-terms
+- /modern-slavery-policy → /tap-terms/modern-slavery-policy
+- /osa and /online-safety-act → /tap-terms/online-safety-act
+- /service-specification-and-plans → /tap-terms/service-specification-and-plans
 
 All other paths redirect to www.theambassadorplatform.com (302 temporary)
