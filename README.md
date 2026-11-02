@@ -67,6 +67,12 @@ All named paths are 301 permanent redirects to TAP legal pages on `partners.idp.
 - /mobile-application-terms → /tap-terms/mobile-application-terms
 - /modern-slavery-policy → /tap-terms/modern-slavery-policy
 - /osa and /online-safety-act → /tap-terms/online-safety-act
-- /service-specification-and-plans → /tap-terms/service-specification-and-plans
+- /service-specification-and-plans and /service/service-specification → /tap-terms/service-specification-and-plans
+- /terms/customer-terms → /tap-terms/customer-terms
+- /service/service-level-agreement → /tap-terms/p2p-sla
+- /terms/mobile-terms → /tap-terms/mobile-application-terms
+- /service/acceptable-usage-policy → /tap-terms/acceptable-usage-policy
+- /privacy/privacy-notice → /tap-terms/p2p-privacy-notice
+- /cookies/cookie-policy → /tap-terms/cookie-policy
 
 All other paths redirect to www.theambassadorplatform.com (302 temporary)

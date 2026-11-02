@@ -86,6 +86,41 @@
       "permanent": true
     },
     {
+      "source": "/terms/customer-terms",
+      "destination": "https://partners.idp.com/tap-terms/customer-terms",
+      "permanent": true
+    },
+    {
+      "source": "/service/service-specification",
+      "destination": "https://partners.idp.com/tap-terms/service-specification-and-plans",
+      "permanent": true
+    },
+    {
+      "source": "/service/service-level-agreement",
+      "destination": "https://partners.idp.com/tap-terms/p2p-sla",
+      "permanent": true
+    },
+    {
+      "source": "/terms/mobile-terms",
+      "destination": "https://partners.idp.com/tap-terms/mobile-application-terms",
+      "permanent": true
+    },
+    {
+      "source": "/service/acceptable-usage-policy",
+      "destination": "https://partners.idp.com/tap-terms/acceptable-usage-policy",
+      "permanent": true
+    },
+    {
+      "source": "/privacy/privacy-notice",
+      "destination": "https://partners.idp.com/tap-terms/p2p-privacy-notice",
+      "permanent": true
+    },
+    {
+      "source": "/cookies/cookie-policy",
+      "destination": "https://partners.idp.com/tap-terms/cookie-policy",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "destination": "https://www.theambassadorplatform.com",
       "permanent": false
